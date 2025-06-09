@@ -3,9 +3,9 @@ Video description: "Learn how to use pytest, the powerful testing framework for 
 
 [video link](https://www.youtube.com/watch?v=cHYq1MRoyI0)
 
-Contents:
+Repo Contents:
 1. Introduction
-2. Our first tests
+2. First tests
 3. Class-based tests
 4. Fixtures
 5. Mark & parametrize
@@ -17,7 +17,7 @@ Contents:
 * Auto-discovery of tests (= picking up tests by the way we name them such as filename)
 * Rich assertion introspection (= when the test fails, a clean report is provided that says why)easy (= run a test multiple times with different args easily)
 
-## Why use Pytest?
+## Why use pytest?
 * Has a very simplified syntax
 * Has a rich assertion introspection
 * Has a powerful fixture system
